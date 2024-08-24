@@ -1,4 +1,5 @@
-pub struct Solution;
+use crate::solutions::base_solution::Solution;
+
 impl Solution {
     pub fn min_steps(n: i32) -> i32 {
         let mut factor = 1;
