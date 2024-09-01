@@ -1,6 +1,8 @@
 pub mod base_solution;
 pub mod binary_tree_postorder_traversal;
+pub mod modify_graph_edge_weights;
 pub mod most_stones_removed_with_same_row_or_column;
 pub mod nary_tree_postorder_traversal;
+pub mod path_with_maximum_probability;
 pub mod sort_the_people;
 pub mod two_keys_keyboard;
