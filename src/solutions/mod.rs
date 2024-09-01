@@ -1,5 +1,6 @@
 pub mod base_solution;
 pub mod binary_tree_postorder_traversal;
+pub mod convert_1_d_array_to_2_d_array;
 pub mod modify_graph_edge_weights;
 pub mod most_stones_removed_with_same_row_or_column;
 pub mod nary_tree_postorder_traversal;
