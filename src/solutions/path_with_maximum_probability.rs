@@ -26,7 +26,7 @@ impl Solution {
             if let Some(prob_list) = map.get(&curr) {
                 for (next, edge_prob) in prob_list {
                     let next_prob = acc_prob * edge_prob;
-                    if prob_vec[*next] < 0 || next_prob > prob_vec[*next] + delta {
+                    if prob_vec[*next] < 0.0 || next_prob > prob_vec[*next] + delta {
                         prob_vec[*next] = next_prob;
                         stack.push((*next, next_prob));
                     }
