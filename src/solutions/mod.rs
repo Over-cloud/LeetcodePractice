@@ -1,8 +1,10 @@
 pub mod base_solution;
 pub mod binary_tree_postorder_traversal;
 pub mod convert_1_d_array_to_2_d_array;
+pub mod count_the_number_of_consistent_strings;
 pub mod find_the_student_that_will_replace_the_chalk;
 pub mod find_missing_observations;
+// pub mod insert_greatest_common_divisors_in_linked_list;
 // pub mod linked_list_in_binary_tree;
 // pub mod modify_graph_edge_weights;
 pub mod most_stones_removed_with_same_row_or_column;
