@@ -14,3 +14,4 @@ pub mod sort_the_people;
 pub mod spiral_matrix_iv;
 // pub mod split_linked_list_in_parts;
 pub mod two_keys_keyboard;
+pub mod xor_queries_of_a_subarray;
