@@ -6,6 +6,7 @@ pub mod find_the_student_that_will_replace_the_chalk;
 pub mod find_missing_observations;
 // pub mod insert_greatest_common_divisors_in_linked_list;
 // pub mod linked_list_in_binary_tree;
+pub mod longest_subarray_with_maximum_bitwise_and;
 // pub mod modify_graph_edge_weights;
 pub mod most_stones_removed_with_same_row_or_column;
 pub mod nary_tree_postorder_traversal;
