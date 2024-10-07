@@ -18,6 +18,7 @@ pub mod lexicographical_numbers;
 // pub mod linked_list_in_binary_tree;
 pub mod longest_subarray_with_maximum_bitwise_and;
 
+pub mod minimum_string_length_after_removing_substrings;
 // pub mod modify_graph_edge_weights;
 pub mod most_stones_removed_with_same_row_or_column;
 
