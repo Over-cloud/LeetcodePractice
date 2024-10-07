@@ -25,6 +25,7 @@ pub mod nary_tree_postorder_traversal;
 pub mod new_year_chaos;
 
 pub mod path_with_maximum_probability;
+pub mod permutation_in_string;
 
 pub mod sort_the_people;
 pub mod spiral_matrix_iv;
