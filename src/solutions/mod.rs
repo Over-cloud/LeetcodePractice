@@ -16,6 +16,7 @@ pub mod kth_smallest_in_lexicographical_order;
 
 pub mod lexicographical_numbers;
 // pub mod linked_list_in_binary_tree;
+pub mod longest_happy_string;
 pub mod longest_subarray_with_maximum_bitwise_and;
 
 pub mod minimum_string_length_after_removing_substrings;
